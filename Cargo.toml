@@ -1,0 +1,7 @@
+[package]
+name = "text-souls"
+version = "0.9.58"
+authors = ["hephaestus"]
+
+[dependencies]
+rand="0.3.0"

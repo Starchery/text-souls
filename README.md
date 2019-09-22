@@ -15,7 +15,7 @@ Good luck beating the Taurus Demon.
   ```-h, --help```: Print a helpful message
 
 ### Screenshots
-Soon to come.
+![VICTORY](https://puu.sh/EjWKf/f4ee4c74bf.gif)
 
 ### Installation
 You'll need to have Rust and Cargo installed.
